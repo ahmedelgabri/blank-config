@@ -1,0 +1,27 @@
+{
+  "name": "blank-css-config",
+  "version": "0.1.0",
+  "description": "blank css configuration",
+  "main": "config.scss",
+  "homepage": "https://github.com/ahmedelgabri/blank-config",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
